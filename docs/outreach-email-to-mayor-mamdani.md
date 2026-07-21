@@ -16,14 +16,14 @@ The average age of first exposure to hardcore pornography in the United States i
 
 I have an architecture that actually works. It's a hardware-level credential anchored in the device's secure chip — the same technology already in every iPhone sold in the five boroughs. It's free. It preserves complete anonymity to any website. It cannot be bypassed by a VPN. And the central database contains no names, so it cannot be turned into a surveillance system.
 
-I'm not asking for an endorsement or a policy proposal. I'm asking for twenty minutes of someone on your policy team's time to read the one-page summary attached and tell me whether the architecture holds up to your scrutiny.
+I'm not asking for an endorsement, a response, or a policy proposal. I'm asking for twenty minutes of someone on your policy team's time to read the one-page summary attached and decide whether the architecture has merit. If it does, your administration can do whatever you want with it — take all the credit, adapt it, ignore it, or file it away. I don't need to be involved. I don't need to be thanked. I just need to know I offered a path to an elected official who might actually walk it.
 
-If it does, you would be the first elected official in the country to champion a genuinely new approach to this problem. That seems like the kind of first your administration is building.
+If it's not the right fit for your agenda right now, that is genuinely fine. This note cost me nothing to write, and I'll sleep better knowing I sent it.
 
-Thank you for what you're doing. I hope you'll take a look.
+Thank you for what you're doing. I hope this helps.
 
 Raymond Gilliard
-raymond.gilliard@gmail.com
+raygilliard@gmail.com
 
 Attached: The Parent's Key — One-Page Summary
 Full proposal: https://github.com/RayGilliardGitHub/the-parents-key
