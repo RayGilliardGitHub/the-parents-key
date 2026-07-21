@@ -56,7 +56,7 @@ I am not asking for endorsement. I am asking for the holes I still cannot see.
 
 ## Repository Contents
 
-- **[PROPOSAL.md](PROPOSAL.md)** — Full legislative proposal with constitutional analysis, enforcement layers, privacy architecture, and pilot program design
+- **[PROPOSAL.md](PROPOSAL.md)** — Full legislative proposal with constitutional analysis, enforcement layers, privacy architecture, mobile device attestation, and pilot program design
 - **[docs/research.md](docs/research.md)** — Worldwide survey of age verification approaches (EU, UK, France, US states, Australia, Korea, China, Japan) and why VPNs structurally defeat website-level enforcement
 - **[docs/holes.md](docs/holes.md)** — Stress-test of the model: 12 identified holes, 5 critical, with proposed fixes and honest assessment of what remains unsolved
 - **[docs/colorado-sb25.md](docs/colorado-sb25.md)** — Summary of the Colorado SB25-104 amendment that triggered this project (OS-level age verification, open-source backlash, the exemption)
