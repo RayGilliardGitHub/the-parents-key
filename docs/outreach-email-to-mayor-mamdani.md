@@ -25,5 +25,5 @@ Thank you for what you're doing. I hope this helps.
 Raymond Gilliard
 raygilliard@gmail.com
 
-Attached: The Parent's Key — One-Page Summary
-Full proposal: https://github.com/RayGilliardGitHub/the-parents-key
+One-page summary: https://raw.githubusercontent.com/RayGilliardGitHub/the-parents-key/main/docs/one-pager-summary.pdf
+Full proposal: https://github.com/RayGilliardGitHub/the-parents-key/blob/main/PROPOSAL.md
