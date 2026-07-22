@@ -2,7 +2,8 @@
 
 **Subject:** A proposal for protecting NYC's children from adult content online
 
-**To:** Mayor Zohran Mamdani | zohran@nyc.gov (or policy director — verify address before sending)
+**To:** Mayor Zohran Mamdani, City Hall, New York, NY 10007
+**Send via:** https://www.nyc.gov/mayors-office/contact-the-mayor (select "Ideas or Suggestions")
 
 ---
 
