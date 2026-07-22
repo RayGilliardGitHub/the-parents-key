@@ -1,6 +1,6 @@
 # Draft: Cover Email to Mayor Zohran Mamdani
 
-**Subject:** A way to protect NYC's children that doesn't fail like everything else
+**Subject:** A proposal for protecting NYC's children from adult content online
 
 **To:** Mayor Zohran Mamdani | zohran@nyc.gov (or policy director — verify address before sending)
 
